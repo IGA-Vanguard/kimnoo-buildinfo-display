@@ -2,6 +2,8 @@
 
 # kimnoo-buildinfo-display
 
+**This is the original web component used during development of the demo version of _Covenbound_. The current project has migrated here: https://github.com/TwindleGames/twindle-buildinfo-display**
+
 This is a [Stencil](https://stenciljs.com) web component that is embedded into web builds deployed to our testing environments. It fetches a `buildinfo.json` file that was generated as part of the deployment process and automatically displays it above the game. It also includes functionality for copying build info and hiding the text as well.
 
 ## Getting Started
